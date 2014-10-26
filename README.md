@@ -1,8 +1,10 @@
 
-YiiHaa
+YIIHAA
 ===================================
 
 YiiHaa is Indonesian CMS base on YiiFramework 2.0. 
+
+This CMS is not only weblog but it is application template to develop complex application. 
 
 The template includes three tiers: front end, back end, and console, each of which
 is a separate Yii application.
@@ -10,6 +12,13 @@ is a separate Yii application.
 The template is designed to work in a team development environment. It supports
 deploying the application in different environments.
 
+FEATURES
+--------
+- Easy setup with step by step
+- Modular (instal or uninstal module)
+- User management
+- User Level Access Management (RBAC by yii2-admin)
+- any idea [ask]
 
 DIRECTORY STRUCTURE
 -------------------
