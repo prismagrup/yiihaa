@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-Yii 2 Advanced Application Template
+
+YiiHaa
 ===================================
 
-Yii 2 Advanced Application Template is a skeleton Yii 2 application best for
-developing complex Web applications with multiple tiers.
+YiiHaa is Indonesian CMS base on YiiFramework 2.0. 
 
 The template includes three tiers: front end, back end, and console, each of which
 is a separate Yii application.
@@ -59,14 +58,6 @@ The minimum requirement by this application template that your Web server suppor
 INSTALLATION
 ------------
 
-### Install from an Archive File
-
-Extract the archive file downloaded from [yiiframework.com](http://www.yiiframework.com/download/) to
-a directory named `advanced` that is directly under the Web root.
-
-Then follow the instructions given in "GETTING STARTED".
-
-
 ### Install via Composer
 
 If you do not have [Composer](http://getcomposer.org/), you may install it by following the instructions
@@ -75,8 +66,8 @@ at [getcomposer.org](http://getcomposer.org/doc/00-intro.md#installation-nix).
 You can then install the application using the following command:
 
 ~~~
-php composer.phar global require "fxp/composer-asset-plugin:1.0.0-beta2"
-php composer.phar create-project --prefer-dist --stability=dev yiisoft/yii2-app-advanced advanced
+php composer.phar global require "fxp/composer-asset-plugin:1.0.0-beta3"
+php composer.phar create-project --prefer-dist --stability=dev hscstudio/yiihaa yiihaa
 ~~~
 
 
@@ -91,14 +82,8 @@ the installed application. You only need to do these once for all.
 3. Apply migrations with console command `yii migrate`. This will create tables needed for the application to work.
 4. Set document roots of your Web server:
 
-- for frontend `/path/to/yii-application/frontend/web/` and using the URL `http://frontend/`
-- for backend `/path/to/yii-application/backend/web/` and using the URL `http://backend/`
+- for frontend `/path/to/yiihaa/frontend/web/` and using the URL `http://frontend/`
+- for backend `/path/to/yiihaa/backend/web/` and using the URL `http://backend/`
 
 To login into the application, you need to first sign up, with any of your email address, username and password.
 Then, you can login into the application with same email address and password at any time.
-=======
-yiihaa
-======
-
-Indonesian CMS base on Yii2
->>>>>>> 3e5ffba0ff42588baa476847580eb16140c7997c
