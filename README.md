@@ -1,5 +1,5 @@
 
-YIIHAA
+YiiHaa
 ===================================
 
 YiiHaa is Indonesian CMS base on YiiFramework 2.0. 
