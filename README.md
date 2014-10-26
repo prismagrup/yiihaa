@@ -67,7 +67,7 @@ You can then install the application using the following command:
 
 ~~~
 php composer.phar global require "fxp/composer-asset-plugin:1.0.0-beta3"
-php composer.phar create-project --prefer-dist --stability=dev hscstudio/yiihaa yiihaa
+php composer.phar create-project --prefer-dist --stability=dev indonesia/yiihaa yiihaa
 ~~~
 
 
